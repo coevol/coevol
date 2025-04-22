@@ -16,7 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm coevol</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate ai developer from south korea</h3>
+
+- 🌱 I’m currently learning **spiking neural network**
+
+- 💬 Ask me about **graph network**
+
+- ⚡ Fun fact **football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
